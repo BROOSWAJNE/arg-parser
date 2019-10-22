@@ -1,0 +1,12 @@
+{
+  "name": "arg-parser",
+  "version": "0.0.1",
+  "description": "Simple command line (or other) argument parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Willem Garnier",
+  "license": "ISC"
+}
